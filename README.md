@@ -1,4 +1,4 @@
 # HellRunners
 Early Acees -- THE LEGEND OF HELLRUNNERS
 
-Report me any bugs!!
+Report me any issue!!
